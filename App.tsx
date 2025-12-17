@@ -10,20 +10,20 @@ import { Loader2, LayoutDashboard, Home, LogOut } from 'lucide-react';
 
 const DEFAULT_SETTINGS: ContextSettings = {
   persona: 'Expert PR Communications Director for a top-tier Blockchain project called "OP_CAT Layer"',
-  eventContexts: ['Event: Binance Blockchain Week (Dec 3-4, 2024). Dr. Bruce is CEO.', 'Side events in Dubai/Abu Dhabi.'],
+  eventContexts: ['Dr. Bruce is CEO.', 'Side events in Dubai/Abu Dhabi.'],
   keyThemes: 'OP_CAT Layer expansion, Bitcoin ecosystem, Strategic partnerships in MENA, High-level networking.',
   tone: 'Professional, Visionary, Exciting, energetic but grounded in technical authority.',
   referenceUrls: [],
   referenceContent: '',
   referenceStyle: '',
   brandLogo: '',
-  brandName: 'OP_CAT Press',
+  brandName: 'OP_CAT Layer',
   brandLocation: 'Dubai • Abu Dhabi',
-  authorName: 'Dr. Bruce',
+  authorName: 'Dr. Bruce Liu',
   authorRole: 'CEO, OP_CAT Layer',
-  websiteUrl: '',
-  twitterUrl: '',
-  telegramUrl: ''
+  websiteUrl: 'https://opcatlabs.io/',
+  twitterUrl: 'https://x.com/opcatlayer',
+  telegramUrl: 'https://t.me/opcat_layer/1'
 };
 
 // Debounce helper
